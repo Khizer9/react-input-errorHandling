@@ -1,0 +1,16 @@
+.formParent{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.errorMsg{
+  color: red !important;
+  font-size: 15px;
+}
+
+.inputError{
+  border-color: red;
+}
